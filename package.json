@@ -6,7 +6,7 @@
     "@material-ui/core": "^3.6.0",
     "@material-ui/docs": "^3.0.0-alpha.8",
     "@material-ui/icons": "^3.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "contentful": "^7.0.5",
     "material-ui": "^0.20.2",
     "material-ui-background": "^0.1.2",
